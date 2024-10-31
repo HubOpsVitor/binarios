@@ -14,7 +14,7 @@ else if(estacao==7 || estacao==8 || estacao==9){
     printf("Nesse mês estamos no inverno\n");
 }
 else if(estacao==10 || estacao==11 || estacao==12){
-    printf("Nesse mês estamos no primavera\n");
+    printf("Nesse mês estamos no verão\n");
 }
 
 else{

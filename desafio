@@ -1,0 +1,7 @@
+1 - Crie um programa em C para obter os números pares do array a seguir:
+int n[ ] = { 33, 8, 7, 11, 54, 77, 13, 16};
+2 - Crie um programa em C para realizar a soma de todos os valores do array a seguir:
+int valores[ ] = { 13, 8, 23, 95, 47 ,14,  10, 45, 165}
+
+3 - Crie um programa em C para realizar o cálculo da média de todos os valores do array a seguir:
+int valores[ ] = { 13, 8, 23, 95, 47 ,14,  10, 45, 165}
